@@ -37,6 +37,10 @@
     "dirtyTileCellIndices": {
         "dlc\\esteben_firstmap\\data\\levels\\esteben_firstmap\\esteben_firstmap.w2w": [
             [
+                15,
+                15
+            ],
+            [
                 14,
                 16
             ],
