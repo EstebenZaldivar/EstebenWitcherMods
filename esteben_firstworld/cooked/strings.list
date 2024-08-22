@@ -1,0 +1,10 @@
+{
+    "files": [
+        {
+            "path": "characters\\npc_entities\\secondary_npc\\my_new_npc.w2ent",
+            "string_ids": [
+                10000000
+            ]
+        }
+    ]
+}

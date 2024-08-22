@@ -1,0 +1,549 @@
+{
+    "files": [
+        {
+            "path": "animations\\monsters\\monster_lessun.w2anims",
+            "level": 0,
+            "class": "CSkeletalAnimationSet",
+            "seed": 1,
+            "id": "0C9A0AB0-E1113253-78D4DC2B-A7133043",
+            "diskSize": 1519467
+        },
+        {
+            "path": "baseanimation01headbasicbang_lesson_customestebenzaldivar.blend",
+            "level": 0,
+            "seed": 1,
+            "id": "D47A165D-BB1721CC-CEA0F3F2-67D4DC00"
+        },
+        {
+            "path": "baseanimation02headbasicbang_lesson_customestebenzaldivar.blend",
+            "level": 0,
+            "seed": 1,
+            "id": "C0DC5A39-861784B8-C985896B-9FFEC23F"
+        },
+        {
+            "path": "baseanimation03headbasicbang_lesson_customestebenzaldivar.blend",
+            "level": 0,
+            "seed": 1,
+            "id": "14EC9424-F50ED9F7-687AFA21-87540F7C"
+        },
+        {
+            "path": "baseanimation04headbasicbangheadup_lesson_customestebenzaldivar.blend",
+            "level": 0,
+            "seed": 1,
+            "id": "3F4A5C4C-8864898B-8709639A-3EFB9632"
+        },
+        {
+            "path": "baseanimation04headbasicbangreorienting_lesson_customestebenzaldivar.blend",
+            "level": 0,
+            "seed": 1,
+            "id": "7C91F4D6-CB28B052-D6378534-9D812BFE"
+        },
+        {
+            "path": "baseanimation04headbasicbangreorienting_lesson_customestebenzaldivar.blend1",
+            "level": 0,
+            "seed": 1,
+            "id": "2BB5E9AD-A6B49403-B490E682-BA90C473"
+        },
+        {
+            "path": "baseanimation05headbasicbangaddedswings_lesson_customestebenzaldivar.blend",
+            "level": 0,
+            "seed": 1,
+            "id": "6B105C9E-7503EADB-3EC3FF46-04944B27"
+        },
+        {
+            "path": "baseanimation06headbasicbangmovingpasttheheadbang_lesson_customestebenzaldivar.blend",
+            "level": 0,
+            "seed": 1,
+            "id": "7DD24901-19931460-0A5C4135-AB35B00D"
+        },
+        {
+            "path": "baseanimation07polishstarts_lesson_customestebenzaldivar.blend",
+            "level": 0,
+            "seed": 1,
+            "id": "DDF229C2-4AC6A4E0-FDCCDE01-BC3790DA"
+        },
+        {
+            "path": "baseanimation08polish01_lesson_customestebenzaldivar.blend",
+            "level": 0,
+            "seed": 1,
+            "id": "9B75C451-03AF3699-229FA53A-AF78C65B"
+        },
+        {
+            "path": "baseanimation09polish02_lesson_customestebenzaldivar.blend",
+            "level": 0,
+            "seed": 1,
+            "id": "63855DD7-65E8E1EE-0A823B26-DB512127"
+        },
+        {
+            "path": "baseanimation09polish02_lesson_customestebenzaldivar.blend1",
+            "level": 0,
+            "seed": 1,
+            "id": "85478EA9-AEAFBFDD-FDDEADB3-646BBC8C"
+        },
+        {
+            "path": "baseanimation_lesson_customestebenzaldivar.blend",
+            "level": 0,
+            "seed": 1,
+            "id": "C93BE46F-DF78BD26-8B92BCBE-2C73191E"
+        },
+        {
+            "path": "characters\\models\\crowd_npc\\novigrad_prostitute\\dress\\d_02_wa__novigrad_prostitute.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "BC130925-B1ECFD7F-CDCE9886-FB540D6B",
+            "diskSize": 3702
+        },
+        {
+            "path": "characters\\models\\crowd_npc\\novigrad_prostitute\\legs\\l2_02_wa__novigrad_prostitute.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "A35B934F-9C19C6C0-CE5135EA-36F72A21",
+            "diskSize": 3357
+        },
+        {
+            "path": "characters\\npc_entities\\secondary_npc\\irina.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "DD7FB77E-4059437A-AC0BF187-98D5363B",
+            "diskSize": 270840
+        },
+        {
+            "path": "characters\\npc_entities\\secondary_npc\\my_new_npc.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "199649E7-1CA322E6-72787A13-7E1E9F23",
+            "diskSize": 271828
+        },
+        {
+            "path": "environment\\vegetation\\brushes\\mark_foreman\\grass_plains.vbrush",
+            "level": 0,
+            "class": "CVegetationBrush",
+            "seed": 1,
+            "id": "4A4984D3-906B5424-A386AB11-7C48677B",
+            "diskSize": 1337
+        },
+        {
+            "path": "environment\\vegetation\\brushes\\miles_tost\\grasses_marsh.vbrush",
+            "level": 0,
+            "class": "CVegetationBrush",
+            "seed": 1,
+            "id": "24BC1749-8FAC4CF7-A339AAAB-E4B89E9A",
+            "diskSize": 2134
+        },
+        {
+            "path": "idle_startingpoint_customanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "731AF6CB-3F6DB6C0-F32A58AF-CF4880F6"
+        },
+        {
+            "path": "leshen_retargetingattempts.blend",
+            "level": 0,
+            "seed": 1,
+            "id": "75F33C88-C6DA09DF-D1A8539C-A640D522"
+        },
+        {
+            "path": "leshen_retargetingattempts.blend1",
+            "level": 0,
+            "seed": 1,
+            "id": "FADFBA66-7AD36312-D2DABF7F-4D79593A"
+        },
+        {
+            "path": "lessun_idle_startingpoint_customanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "58ABA99C-D2E5A128-1CBF8FC8-FEE21886"
+        },
+        {
+            "path": "lessun_idle_startingpoint_eightexporttestonly_customestebenanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "3314F8B7-577D6658-DFB7A807-DCFBF5B2"
+        },
+        {
+            "path": "lessun_idle_startingpoint_elevenexporttestonly_customestebenanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "BAC0C0D3-AC1130F8-A990CFFD-19C2A628"
+        },
+        {
+            "path": "lessun_idle_startingpoint_fifthexporttestonly_customestebenanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "E4DE7084-0D511D49-5D094CDB-DD632299"
+        },
+        {
+            "path": "lessun_idle_startingpoint_firstexporttestonly_customestebenanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "7B37C65A-A9E1EA22-527F9C2D-797DFA03"
+        },
+        {
+            "path": "lessun_idle_startingpoint_fourthexporttestonly_customestebenanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "B5C358DD-DAD7E019-E4A7B4F8-A262D827"
+        },
+        {
+            "path": "lessun_idle_startingpoint_ninthexporttestonly_customestebenanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "275400C1-1AB879D1-3F41AF66-A9B32A9A"
+        },
+        {
+            "path": "lessun_idle_startingpoint_secondexporttestonly_customestebenanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "167BB359-C3EABCE6-93472DD2-88D19D66"
+        },
+        {
+            "path": "lessun_idle_startingpoint_seventhexporttestonly_customestebenanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "D4D7834E-9E4F9E93-A0683934-88C6178F"
+        },
+        {
+            "path": "lessun_idle_startingpoint_sixthexporttestonly_customestebenanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "D7BC8F8B-17FE3B9B-FAC95861-0ED71DCE"
+        },
+        {
+            "path": "lessun_idle_startingpoint_tenthexporttestonly_customestebenanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "21FC4828-A2754FAB-787BBCCE-CC096A52"
+        },
+        {
+            "path": "lessun_idle_startingpoint_thirdexporttestonly_customestebenanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "2D8D6C74-54E91683-E0F3B3A6-A4798AEA"
+        },
+        {
+            "path": "lessun_idle_startingpoint_thirteenexporttestonly_customestebenanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "876C5329-18D86DB8-855095FC-58142A8A"
+        },
+        {
+            "path": "lessun_idle_startingpoint_twelveexporttestonly_customestebenanimation.re",
+            "level": 0,
+            "seed": 1,
+            "id": "E018D6BE-7BBC56EF-A3E8947E-4476E557"
+        },
+        {
+            "path": "lessun_rocknroll_01.re",
+            "level": 0,
+            "seed": 1,
+            "id": "80DC3E70-65C8CA47-6B1E4E5F-E05925D4"
+        },
+        {
+            "path": "lessun_rocknroll_010.re",
+            "level": 0,
+            "seed": 1,
+            "id": "CA6D6573-8E93DC31-0C3D655B-8D0F402E"
+        },
+        {
+            "path": "lessun_rocknroll_011.re",
+            "level": 0,
+            "seed": 1,
+            "id": "5FAF60B6-131CB04F-6DCD7B6B-D6517AB8"
+        },
+        {
+            "path": "lessun_rocknroll_012.re",
+            "level": 0,
+            "seed": 1,
+            "id": "D2D77967-77F465C2-B2BEF718-AC7E9130"
+        },
+        {
+            "path": "lessun_rocknroll_013.re",
+            "level": 0,
+            "seed": 1,
+            "id": "C031B4C9-70CD149B-C9606B81-2E0EDEF4"
+        },
+        {
+            "path": "lessun_rocknroll_014.re",
+            "level": 0,
+            "seed": 1,
+            "id": "34E5C6B3-AF90E375-E0558AC5-34DC6D3D"
+        },
+        {
+            "path": "lessun_rocknroll_015.re",
+            "level": 0,
+            "seed": 1,
+            "id": "4413AB88-5504F085-35F836E5-710B6E79"
+        },
+        {
+            "path": "lessun_rocknroll_016.re",
+            "level": 0,
+            "seed": 1,
+            "id": "ECE15952-8A9E6976-C1A2D19A-DD80076E"
+        },
+        {
+            "path": "lessun_rocknroll_017.re",
+            "level": 0,
+            "seed": 1,
+            "id": "3ED3927E-A7653C38-EA2A0B42-C3C84D58"
+        },
+        {
+            "path": "lessun_rocknroll_018.re",
+            "level": 0,
+            "seed": 1,
+            "id": "5EF11508-6646BE7C-886B9CD5-05CAA4B6"
+        },
+        {
+            "path": "lessun_rocknroll_019.re",
+            "level": 0,
+            "seed": 1,
+            "id": "9B44DE19-410B97ED-C4906A7B-6BD7A068"
+        },
+        {
+            "path": "lessun_rocknroll_02.re",
+            "level": 0,
+            "seed": 1,
+            "id": "85F3EEA3-4507C4C1-0EFF0BE1-CC4D83C1"
+        },
+        {
+            "path": "lessun_rocknroll_020.re",
+            "level": 0,
+            "seed": 1,
+            "id": "E7E9E5FE-E01B1FAD-866C76C6-37A14DD0"
+        },
+        {
+            "path": "lessun_rocknroll_021.re",
+            "level": 0,
+            "seed": 1,
+            "id": "1ECB6C04-DB46EC5C-60977D54-5874A872"
+        },
+        {
+            "path": "lessun_rocknroll_022.re",
+            "level": 0,
+            "seed": 1,
+            "id": "C0E73CEB-D3077224-780983F9-1A1D5A15"
+        },
+        {
+            "path": "lessun_rocknroll_023.re",
+            "level": 0,
+            "seed": 1,
+            "id": "B5B15B8A-46B5814B-7A57613A-45E549B9"
+        },
+        {
+            "path": "lessun_rocknroll_024.re",
+            "level": 0,
+            "seed": 1,
+            "id": "ACD26C64-AB8D9651-CD859DED-DD89C3FF"
+        },
+        {
+            "path": "lessun_rocknroll_025.re",
+            "level": 0,
+            "seed": 1,
+            "id": "8A289317-3B2DE740-6FA12348-CEC21CBA"
+        },
+        {
+            "path": "lessun_rocknroll_026.re",
+            "level": 0,
+            "seed": 1,
+            "id": "5F1CF263-791553F3-A6286B95-C65C07CE"
+        },
+        {
+            "path": "lessun_rocknroll_027.re",
+            "level": 0,
+            "seed": 1,
+            "id": "E04D2668-09749EBA-8B2744E7-AC59FE1D"
+        },
+        {
+            "path": "lessun_rocknroll_028.re",
+            "level": 0,
+            "seed": 1,
+            "id": "6E1892EB-B7CB432F-A016A0CF-052F6ACA"
+        },
+        {
+            "path": "lessun_rocknroll_029.re",
+            "level": 0,
+            "seed": 1,
+            "id": "16BC7741-50FDA527-DA610FDA-EC975576"
+        },
+        {
+            "path": "lessun_rocknroll_03.re",
+            "level": 0,
+            "seed": 1,
+            "id": "69A25020-D5542E26-161C0775-7B5F2C37"
+        },
+        {
+            "path": "lessun_rocknroll_030.re",
+            "level": 0,
+            "seed": 1,
+            "id": "0BB41805-7B47D2FC-AFD981AA-90765BA8"
+        },
+        {
+            "path": "lessun_rocknroll_031.re",
+            "level": 0,
+            "seed": 1,
+            "id": "1CEC66AB-0D0A80BD-12F10118-BF172767"
+        },
+        {
+            "path": "lessun_rocknroll_032.re",
+            "level": 0,
+            "seed": 1,
+            "id": "5ADA2D04-A6448F33-FE9C3EA0-B1AA3894"
+        },
+        {
+            "path": "lessun_rocknroll_033.re",
+            "level": 0,
+            "seed": 1,
+            "id": "6EAECC2A-707662FF-D42EEE79-FBADF00F"
+        },
+        {
+            "path": "lessun_rocknroll_034.re",
+            "level": 0,
+            "seed": 1,
+            "id": "89DF3F3A-CBD99C4B-D2FDCE80-486AA20B"
+        },
+        {
+            "path": "lessun_rocknroll_035.re",
+            "level": 0,
+            "seed": 1,
+            "id": "5131D1F6-E94AD2EF-E8EFD911-95BF2D06"
+        },
+        {
+            "path": "lessun_rocknroll_036.re",
+            "level": 0,
+            "seed": 1,
+            "id": "1A6078C6-E73DB261-57B2FFA2-540FFA91"
+        },
+        {
+            "path": "lessun_rocknroll_037.re",
+            "level": 0,
+            "seed": 1,
+            "id": "11A40698-6FB5B7B5-4D7E6C1D-67861B46"
+        },
+        {
+            "path": "lessun_rocknroll_038.re",
+            "level": 0,
+            "seed": 1,
+            "id": "37A8CC3A-F235FFA8-3FE4AE2E-6C28B66F"
+        },
+        {
+            "path": "lessun_rocknroll_039.re",
+            "level": 0,
+            "seed": 1,
+            "id": "74AADE42-B3D7A1F2-15BDE0D6-ED3F447D"
+        },
+        {
+            "path": "lessun_rocknroll_04.re",
+            "level": 0,
+            "seed": 1,
+            "id": "C996AE4E-D8E50722-F50BDE4C-A7C4F001"
+        },
+        {
+            "path": "lessun_rocknroll_040.re",
+            "level": 0,
+            "seed": 1,
+            "id": "C1E54626-C4BD2F08-7D456853-29072774"
+        },
+        {
+            "path": "lessun_rocknroll_041.re",
+            "level": 0,
+            "seed": 1,
+            "id": "276399FF-200E68A8-D090041E-FA1E0DDD"
+        },
+        {
+            "path": "lessun_rocknroll_042.re",
+            "level": 0,
+            "seed": 1,
+            "id": "EF438302-51EC0B74-CB06AEBA-CA1CE382"
+        },
+        {
+            "path": "lessun_rocknroll_043.re",
+            "level": 0,
+            "seed": 1,
+            "id": "3CD966B8-746FD256-2ECA0F11-9D05DD49"
+        },
+        {
+            "path": "lessun_rocknroll_044.re",
+            "level": 0,
+            "seed": 1,
+            "id": "1DEEEE4B-7B8044AB-EAB80FEE-20478CF5"
+        },
+        {
+            "path": "lessun_rocknroll_045.re",
+            "level": 0,
+            "seed": 1,
+            "id": "2ACB52EF-C2285AFF-CE656453-5064F09A"
+        },
+        {
+            "path": "lessun_rocknroll_046.re",
+            "level": 0,
+            "seed": 1,
+            "id": "11169741-88E8963A-1CA5F143-4640ED42"
+        },
+        {
+            "path": "lessun_rocknroll_047.re",
+            "level": 0,
+            "seed": 1,
+            "id": "D75A7E4A-D3D23D1F-3ED0AAA5-56701E2D"
+        },
+        {
+            "path": "lessun_rocknroll_048.re",
+            "level": 0,
+            "seed": 1,
+            "id": "345174B4-1DC1FDCD-D6F2B351-3985797D"
+        },
+        {
+            "path": "lessun_rocknroll_05.re",
+            "level": 0,
+            "seed": 1,
+            "id": "EE0C2D02-E30506A8-61DBD36E-D9202B5C"
+        },
+        {
+            "path": "lessun_rocknroll_06.re",
+            "level": 0,
+            "seed": 1,
+            "id": "96C2BF78-6F87D8FB-F125D8C3-792BAB35"
+        },
+        {
+            "path": "lessun_rocknroll_07.re",
+            "level": 0,
+            "seed": 1,
+            "id": "65FD55D4-AE497762-2A77AEFB-C4F76ABB"
+        },
+        {
+            "path": "lessun_rocknroll_08.re",
+            "level": 0,
+            "seed": 1,
+            "id": "8F6518FE-4AD4F90C-2E82F3CB-D960F08A"
+        },
+        {
+            "path": "lessun_rocknroll_09.re",
+            "level": 0,
+            "seed": 1,
+            "id": "49AE731E-D617F449-4E7584D9-32DAC7D7"
+        },
+        {
+            "path": "living_world\\event_templates\\encounters\\aproved_templates\\wolves\\wolves_level_5_alpha_level_5.spawntree",
+            "level": 0,
+            "class": "CSpawnTree",
+            "seed": 1,
+            "id": "E350B3CF-855B0189-544DE616-E3BA35CF",
+            "diskSize": 2753
+        },
+        {
+            "path": "witch_basemodel_exportstartoff.fbx",
+            "level": 0,
+            "seed": 1,
+            "id": "63554B4B-5040E021-774E7436-95F6B755"
+        },
+        {
+            "path": "witch_basemodel_exportstartoff.xml",
+            "level": 0,
+            "seed": 1,
+            "id": "719EB571-0B5C1284-B236A8FF-029FB2C2",
+            "diskSize": 22251
+        }
+    ]
+}
