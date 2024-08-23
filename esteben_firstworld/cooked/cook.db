@@ -6,7 +6,7 @@
             "class": "CSkeletalAnimationSet",
             "seed": 1,
             "id": "0C9A0AB0-E1113253-78D4DC2B-A7133043",
-            "diskSize": 1519267
+            "diskSize": 1482345
         },
         {
             "path": "baseanimation01headbasicbang_lesson_customestebenzaldivar.blend",
@@ -79,6 +79,12 @@
             "level": 0,
             "seed": 1,
             "id": "85478EA9-AEAFBFDD-FDDEADB3-646BBC8C"
+        },
+        {
+            "path": "baseanimation10polish03_lesson_customestebenzaldivar.blend",
+            "level": 0,
+            "seed": 1,
+            "id": "FF9C4028-131FEDAF-199D6847-15EB9CDA"
         },
         {
             "path": "baseanimation_lesson_customestebenzaldivar.blend",
@@ -495,10 +501,52 @@
             "id": "345174B4-1DC1FDCD-D6F2B351-3985797D"
         },
         {
+            "path": "lessun_rocknroll_049.re",
+            "level": 0,
+            "seed": 1,
+            "id": "C8B4EBF0-8C7ADD5F-ACD46884-6EF9187B"
+        },
+        {
             "path": "lessun_rocknroll_05.re",
             "level": 0,
             "seed": 1,
             "id": "EE0C2D02-E30506A8-61DBD36E-D9202B5C"
+        },
+        {
+            "path": "lessun_rocknroll_050.re",
+            "level": 0,
+            "seed": 1,
+            "id": "00965190-A0633DDF-27D3C20E-81415283"
+        },
+        {
+            "path": "lessun_rocknroll_051.re",
+            "level": 0,
+            "seed": 1,
+            "id": "CE45AE65-4C255FC2-7493DF34-04FAAD81"
+        },
+        {
+            "path": "lessun_rocknroll_052.re",
+            "level": 0,
+            "seed": 1,
+            "id": "A32C2672-431FF5D8-4BF11A21-99B880B3"
+        },
+        {
+            "path": "lessun_rocknroll_053.re",
+            "level": 0,
+            "seed": 1,
+            "id": "F824529A-50FC8237-12C42A24-9EEB7C8E"
+        },
+        {
+            "path": "lessun_rocknroll_054.re",
+            "level": 0,
+            "seed": 1,
+            "id": "2FBD83EC-E6102243-32A20364-C5888D64"
+        },
+        {
+            "path": "lessun_rocknroll_055.re",
+            "level": 0,
+            "seed": 1,
+            "id": "8CE6A987-BC7A8384-218C6D26-3B1F46B4"
         },
         {
             "path": "lessun_rocknroll_06.re",
